@@ -114,7 +114,6 @@ int main() {
 Save the file and exit the text editor (Ctrl+X, then Y, and Enter for nano).
 
 ![C-code](images/ss1.png)
-![folders-image](images/ss2.png)
 
 ### Step 4: Compile the Program
 
@@ -133,4 +132,5 @@ Execute the compiled program to organize files in the current directory:
 ```
 
 ![ss1](images/ss3.png)
+![folders-image](images/ss2.png)
 This will organize the files in the current directory into Images, Documents, and Videos folders.
