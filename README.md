@@ -129,4 +129,5 @@ Execute the compiled program to organize files in the current directory:
 ./file_organizer
 ```
 
+!(ss1)[images/ss3.png]
 This will organize the files in the current directory into Images, Documents, and Videos folders.
