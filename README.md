@@ -20,7 +20,7 @@ Create a new C file named file_organizer.c and open it with a text editor (e.g.,
 nano file_organizer.c
 ```
 
-### Step 3: Write the C Program
+### Step 3: Write the C Program for File Organizer
 
 Copy and paste the following code into the file_organizer.c file:
 
